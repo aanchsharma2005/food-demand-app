@@ -1,1 +1,12 @@
 streamlit==1.28.0
+pandas
+numpy
+scikit-learn
+xgboost==2.0.3
+matplotlib
+plotly
+openpyxl
+joblib
+PyMuPDF
+pdfplumber
+requests
